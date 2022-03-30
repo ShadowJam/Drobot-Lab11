@@ -1,0 +1,8 @@
+C:\Users\Максим\Source\Repos\TenthLab\bin\Debug\TenthLab.exe.config
+C:\Users\Максим\Source\Repos\TenthLab\bin\Debug\TenthLab.exe
+C:\Users\Максим\Source\Repos\TenthLab\bin\Debug\TenthLab.pdb
+C:\Users\Максим\Source\Repos\TenthLab\obj\Debug\TenthLab.csproj.AssemblyReference.cache
+C:\Users\Максим\Source\Repos\TenthLab\obj\Debug\TenthLab.csproj.SuggestedBindingRedirects.cache
+C:\Users\Максим\Source\Repos\TenthLab\obj\Debug\TenthLab.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Source\Repos\TenthLab\obj\Debug\TenthLab.exe
+C:\Users\Максим\Source\Repos\TenthLab\obj\Debug\TenthLab.pdb
